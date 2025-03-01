@@ -1,4 +1,4 @@
-# Profile & Albums Viewer  
+# Album_App
 
 A simple iOS app to showcase user profiles and albums while evaluating coding style and design patterns.  
 
