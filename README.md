@@ -21,6 +21,6 @@ A simple iOS app to showcase user profiles and albums while evaluating coding st
 3. Run the project in Xcode  
 
 ## Demo  
-![Demo Video](https://github.com/user-attachments/assets/5a2180b0-4c50-4cd2-8c5d-ceafa498c877)  
+https://github.com/user-attachments/assets/5a2180b0-4c50-4cd2-8c5d-ceafa498c877
 
 Let me know if you want any changes! 🚀  
